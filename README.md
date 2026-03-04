@@ -11,6 +11,6 @@
 
 This repository contains my solution for the a single-page CV (Curriculum Vitae) using only HTML. exercises on Roadmap.sh.
 
-### Repository/Gist Link
+### Projection Url
 
-- Link: (https://github.com/lakshan-beast/single-cv-page/)
+- Link: (https://github.com/lakshan-beast/single-cv-page)
